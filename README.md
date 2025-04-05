@@ -23,6 +23,10 @@ Este projeto aplica **Machine Learning** para prever os resultados de partidas d
 - Otimizar os hiperparâmetros
 - Criar uma interface web para visualização das previsões
 
+## Arquivo Usado
+
+https://docs.google.com/spreadsheets/d/1-mD93m8LHTRDeUGS0dWsmTPfji0ABsyQn-2jQp-AkX0/edit?usp=sharing
+
 ## 🙌 Autor
 
 Projeto desenvolvido por Charles Sales como estudo prático em Ciência de Dados.
