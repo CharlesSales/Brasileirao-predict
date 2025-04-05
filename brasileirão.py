@@ -127,5 +127,3 @@ for mandante, visitante in rodada:
     predicted_result_label = le_result.inverse_transform(predicted_result)[0]
 
     print(f'{mandante} x {visitante}: {predicted_result_label}')
-
-df.head()
